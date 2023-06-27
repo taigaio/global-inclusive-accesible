@@ -89,8 +89,10 @@ These are some examples of what it means for us, at Kaleidos, to focus on fair a
 At this point, the most important question to answer is: for the faucets, gold or bronze?
 
 [SLIDE12]: Images of two faucets, one gold and one bronze
-Yami: Are you for real?
-Miryam: Ok, ok, Sorry.
+
+Are you for real?
+
+Ok, ok, sorry.
 
 [SLIDE13]: The title "Accessible" and the subtitle "Taiga is just for everyone" over some icons: an ear, an eye and a wheelchair.
 
